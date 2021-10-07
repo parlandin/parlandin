@@ -1,5 +1,5 @@
 ## Olá, eu sou  Gustavo Parlandim 👋
-<p>Amante da tecnlogia e estudante de desenvolvimento front-end.</p>
+<p>Amante da tecnologia e estudante de desenvolvimento front-end.</p>
 
 ### Minhas redes socias 👇
 
