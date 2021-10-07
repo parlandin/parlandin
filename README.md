@@ -9,7 +9,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gustavoparlandim/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/parlandim13/)
+)](https://www.instagram.com/parlandim_dev/)
 
 <div>
     <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Gu-Parlandim&hide=contribs,prs&show_icons=true&theme=synthwave" alt="gitstats">
