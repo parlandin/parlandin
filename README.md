@@ -11,6 +11,8 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/parlandim_dev/)
 
+https://gu-parlandim.github.io/Portifolio/
+
 <div>
     <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Gu-Parlandim&hide=contribs,prs&show_icons=true&theme=synthwave" alt="gitstats">
 </div>
