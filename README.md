@@ -13,7 +13,7 @@
 )](https://www.instagram.com/parlandim_dev/)
 
 
-<div>
+<div align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Gu-Parlandim&hide=contribs,prs&show_icons=true&theme=synthwave" alt="gitstats">
 </div>
 
