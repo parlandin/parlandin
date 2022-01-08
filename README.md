@@ -2,7 +2,7 @@
 <p><strong>Eu tenho 19 anos,</strong> e meus hobbys favoritos são: games e programação.</p>
 <p>Web Developer in progress.</p>
 <p>#100DaysOfCode.</p>
-<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="gif" widht="300px" height="300px" align="right">
+<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="gif" widht="200px" height="190px" align="right">
 
 ### Minhas redes socias: 
 
@@ -14,7 +14,7 @@
 
 
 <div>
-    <img height="100px" src="https://github-readme-stats.vercel.app/api?username=Gu-Parlandim&hide=contribs,prs&show_icons=true&theme=synthwave" alt="gitstats">
+    <img height="80px" src="https://github-readme-stats.vercel.app/api?username=Gu-Parlandim&hide=contribs,prs&show_icons=true&theme=synthwave" alt="gitstats">
 </div>
 
 <div>
