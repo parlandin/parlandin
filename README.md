@@ -13,7 +13,7 @@
 )](https://www.instagram.com/parlandim_dev/)
 
 
-<div>
+<div height="300px">
   <p>Tecnologias que uso no meu dia:</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -30,9 +30,9 @@
 </div>
 
 <br>
-<div ">
-    <img width="270px" height="300px" src="https://github-readme-stats.vercel.app/api?username=Gu-Parlandim&hide=contribs,prs&show_icons=true&theme=synthwave" alt="gitstats">                            
-    <img  width="270px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Parlandim&layout=compact" alt="gitstats"
+<div>
+    <img width="270px" src="https://github-readme-stats.vercel.app/api?username=Gu-Parlandim&hide=contribs,prs&show_icons=true&theme=synthwave" alt="gitstats">                            
+    <img  width="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Parlandim&layout=compact" alt="gitstats"
 </div>
 
 
