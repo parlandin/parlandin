@@ -34,9 +34,8 @@
 </div>
 
 <br>
-<div>
-    <img width="240px" src="https://github-readme-stats.vercel.app/api?username=Gu-Parlandim&hide=contribs,prs&show_icons=true&theme=synthwave" alt="gitstats">                            
-    <img  width="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Parlandim&layout=compact" alt="gitstats"
+<div>                       
+    <img  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Parlandim&layout=compact" alt="gitstats"
 </div>
 
 
