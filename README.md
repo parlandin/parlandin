@@ -35,7 +35,7 @@
 
 <br>
 <div>                       
-    <img  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Parlandim&layout=compact" alt="gitstats"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Parlandim&layout=compact" alt="gitstats"
 </div>
 
 
