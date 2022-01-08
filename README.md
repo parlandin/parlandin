@@ -4,6 +4,8 @@
 <p>#100DaysOfCode.</p>
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="gif" widht="250px" height="190px" align="right">
 
+<br>
+
 ### Minhas redes socias: 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:gustavo.parlandim@gmail.com>)
@@ -14,7 +16,7 @@
 
 
 <div height="300px">
-  <p>Tecnologias que uso no meu dia:</p>
+  <p>Tecnologias que tenho conhecimento:</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"                 alt="javaScript">
@@ -31,7 +33,7 @@
 
 <br>
 <div>
-    <img width="300px" src="https://github-readme-stats.vercel.app/api?username=Gu-Parlandim&hide=contribs,prs&show_icons=true&theme=synthwave" alt="gitstats">                            
+    <img width="240px" src="https://github-readme-stats.vercel.app/api?username=Gu-Parlandim&hide=contribs,prs&show_icons=true&theme=synthwave" alt="gitstats">                            
     <img  width="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Parlandim&layout=compact" alt="gitstats"
 </div>
 
