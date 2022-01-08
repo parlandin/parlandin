@@ -2,7 +2,7 @@
 <p><strong>Eu tenho 19 anos,</strong> e meus hobbys favoritos são: games e programação.</p>
 <p>Web Developer in progress.</p>
 <p>#100DaysOfCode.</p>
-<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="gif" widht="190px" height="190px" align="right" style="top:100px;">
+<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="gif" widht="250px" height="190px" align="right">
 
 ### Minhas redes socias: 
 
