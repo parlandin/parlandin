@@ -1,5 +1,5 @@
 ## Hello everybody, my name is Gustavo Parlandim 👋
-<p><strong>Eu tenho 19 anos,</strong> e meus hobbys são: Games, Projetos maker e programação.</p>
+<p><strong>Meus hobbys são:</strong> Games, Projetos maker e programação.</p>
 <p>Web Developer in progress.</p>
 <p>#100DaysOfCode.</p>
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="gif" widht="250px" height="190px" align="right">
