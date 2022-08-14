@@ -43,7 +43,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Parlandim&layout=compact" alt="gitstats"
 </div>
 <br>
-<div align="center" >
+<div align="center"  height="200px">
   <img  height="20px" src="https://visits-count.vercel.app/get/@:parlandim" alt=":name" />
 </div>
 
