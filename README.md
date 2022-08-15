@@ -44,7 +44,7 @@
 </div>
 <br>
 <div align="center"  height="200px">
-  <img  height="20px" src="https://viewscount.vercel.app/get/@:parlandim" alt="contador de visitas no perfil" />
+  <img  height="20px" src="https://viewscount.vercel.app/get/@parlandim" alt="contador de visitas no perfil" />
 </div>
 
 
