@@ -53,10 +53,10 @@
 
 <div>
   <a href="#" >
-  <img width="407px" align="center" src="https://github-readme-stats.vercel.app/api?username=Gu-Parlandim&show_icons=true&theme=blue-green"/>
+  <img width="407px" align="center" src="https://github-readme-stats.vercel.app/api?username=parlandin&show_icons=true&theme=blue-green"/>
   </a>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Parlandim&theme=blue-green&layout=compact&hide=php">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parlandin&theme=blue-green&layout=compact&hide=php">
   </a>
 </div>
 
